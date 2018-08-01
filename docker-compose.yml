@@ -1,0 +1,15 @@
+version: '3'
+services:
+  pr-dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: lewinc/pr-dashboard:latest
+
+    container_name: pr-dashboard
+    volumes:
+      - ./config:/usr/src/app/config
+    ports:
+      - '18080:8080'
+
+
