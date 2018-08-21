@@ -21,6 +21,7 @@
     "adaptris/interlok-config-conditional",
     "adaptris/interlok-expressions",
     "adaptris/interlok-es5",
+    "adaptris/interlok-excel",
     "adaptris/interlok-oauth",
     "adaptris/interlok-activemq",
     "adaptris/interlok-gcloud-pubsub",
