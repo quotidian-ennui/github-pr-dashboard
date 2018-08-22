@@ -42,6 +42,7 @@
     "adaptris/interlok-cassandra",
     "adaptris/interlok-vcs-git",
     "adaptris/interlok-pdf",
+    "adaptris/interlok-cxf",
     "adaptris/interlok-elasticsearch"
   ],
   "comments": {
